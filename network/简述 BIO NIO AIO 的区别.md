@@ -27,7 +27,7 @@
 
 BIO的具体流程
 
-![](./img/bio_1.png)
+![](./../img/bio_1.png)
 
 
 
@@ -71,7 +71,7 @@ socket连接默认是阻塞模式，**非阻塞IO要求 socket被设置为 NONBL
 
 
 
-![](./img/NIO_1.png)
+![](./../img/NIO_1.png)
 
 
 
@@ -113,7 +113,7 @@ AIO的基本流程是: 用户线程通过系统调用，向内核注册某个IO�
 
 
 
-![aa](./img/AIO_1.png)
+![aa](./../img/AIO_1.png)
 
 发起一个异步IO的read读操作的系统调用，流程如下
 
